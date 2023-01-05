@@ -98,7 +98,7 @@ class Login extends Component {
 
 				<div className="text-center mb-6">
 					<Logo />
-					<div className="text-3xl md:text-5xl relative font-medium text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-gray-600 mb-4">OpenAI<span className="font-normal "> Template</span>
+					<div className="text-3xl md:text-5xl relative font-medium text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-gray-600 mb-4">Cerebrum<span className="font-normal "> Mark - I </span>
 						<div className="absolute top-0 ml-3 left-full bg-gradient-to-r from-gray-500 to-gray-500 text-white text-sm px-2 py-0.5 hidden md:inline-block rounded-md font-normal ">gpt3</div>
 					</div>
 				</div>

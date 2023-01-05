@@ -97,13 +97,13 @@ class SidebarCompontent extends Component {
             </div>
             <div>
               <div className="text-4xl relative font-medium text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-gray-600 inline-block">
-                Almabetter<span className="font-normal "> Open AI Admin</span>
+                Cerebrum <span className="font-normal ">Mark - I</span>
                 <div className="absolute top-0 ml-3 left-full bg-gradient-to-br from-gray-500 to-gray-500 text-white text-sm px-2 py-0.5 rounded-md font-normal hidden md:flex">
                   gpt3
                 </div>
               </div>
               <div className="hidden md:block text-xl text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-gray-500 inline-block">
-                Prepare content, write code, and create magic
+                The ultimate AI SAAS builder. Prepare content, write code, and create magic
               </div>
               <div className="flex">
                 <div
