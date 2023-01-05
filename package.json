@@ -2,7 +2,7 @@
   "name": "cerebrum",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://abhinavsanyal.github.io/cerebrum",
+  "homepage": "http://abhinavsanyal.github.io/cerebrum_client",
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.3",
@@ -51,7 +51,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-app-rewired start && node index.js",
+    "start": "react-app-rewired start",
     "react": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
