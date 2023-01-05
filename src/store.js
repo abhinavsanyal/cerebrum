@@ -10,7 +10,7 @@ import config from './config'
 
 let filterBadWords = new Filter()
 
-let baseURL = config.baseURL
+let baseURL = config.baseURL || "https://vast-rose-barnacle-hem.cyclic.app/api/"
 
 configure({  enforceActions: "never", })
 

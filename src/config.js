@@ -1,5 +1,5 @@
 const dev = {
-	baseURL: "http://localhost:3080/api/",
+	baseURL: "https://vast-rose-barnacle-hem.cyclic.app/api/",
 	landingPageUrl: "http://localhost:3080",
 	stripe: {
 		free: "price_1JcQD6HIZYvvnKladKayEvOZ",
@@ -9,7 +9,7 @@ const dev = {
 };
   
 const prod = {
-	baseURL: '/api/',
+	baseURL: 'https://vast-rose-barnacle-hem.cyclic.app/api/',
 	landingPageUrl: "https://app.openaitemplate.com",
 	stripe: {
 		free: "price_1JcQsUHIZYvvnKlaEPy958NF",
