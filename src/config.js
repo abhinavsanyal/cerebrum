@@ -1,5 +1,5 @@
 const dev = {
-	baseURL: "https://vast-rose-barnacle-hem.cyclic.app/api/",
+	baseURL: "http://localhost:5001/api/",
 	landingPageUrl: "http://localhost:3080",
 	stripe: {
 		free: "price_1JcQD6HIZYvvnKladKayEvOZ",

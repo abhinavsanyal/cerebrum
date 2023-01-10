@@ -103,7 +103,7 @@ class SidebarCompontent extends Component {
                 </div>
               </div>
               <div className="hidden md:block text-xl text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-gray-500 inline-block">
-                The ultimate AI SAAS builder. Prepare content, write code, and create magic
+                The ultimate virtual employee assistant for your business.
               </div>
               <div className="flex">
                 <div

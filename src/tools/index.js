@@ -4,6 +4,7 @@ import codeInterpret from './interpret';
 import intro from './intro';
 import helloworld from './helloworld';
 import example from './example';
+import logomaker from './logomaker';
 
 const TOOLS = [
 
@@ -13,6 +14,7 @@ const TOOLS = [
 	summarize,
 	helloworld,
 	example,
+	logomaker,
 
 ]
 

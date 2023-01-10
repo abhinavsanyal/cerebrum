@@ -128,7 +128,7 @@ class Body extends Component {
         >
           <Route exact path="/my-profile">
             <Helmet>
-              <title>{`My Profile - OpenAI Template`}</title>
+              <title>{`My Profile - Cerebrum`}</title>
             </Helmet>
           </Route>
         </Header>
